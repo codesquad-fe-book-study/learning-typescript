@@ -22,7 +22,7 @@ const soldierOrDate = soldiersOrDates[0];
 
 **이유는?**
 
-![스크린샷 2023-04-09 오전 12.28.37.png](<img width="688" alt="스크린샷 2023-04-09 오후 12 04 10" src="https://user-images.githubusercontent.com/81420856/230751966-d96fb52b-60a3-4a8d-b43a-8eef370434b7.png">)
+<img width="688" alt="스크린샷 2023-04-09 오후 12 04 10" src="https://user-images.githubusercontent.com/81420856/230751966-d96fb52b-60a3-4a8d-b43a-8eef370434b7.png">
 
 ## 6.4 튜플
 
